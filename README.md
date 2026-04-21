@@ -108,7 +108,7 @@ It includes some extra (but simple) features just for fun:
 
 ## How-to?
 
-Download the workbook (`xlsx`), open it, start filling in the cells marked in `blue`. You can then print it or protect it with a strong password using a **recent version** of Microsoft Excel.
+Download the workbook (`.xlsx`) ([from the releases](https://github.com/gabeweb/Emergency_Kit_Sheet/releases)), open it, start filling in the cells marked in `blue`. You can then print it or protect it with a strong password using a **recent version** of Microsoft Excel.
 
 > [!NOTE]
 > The sheets are protected by default (without a password) to preserve formulas, formatting, and avoid errors. You can unprotect the cells if you wish.
